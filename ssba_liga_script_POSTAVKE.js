@@ -11,21 +11,21 @@ const klub01 = { naziv: "Backspace United", logo: "https://i.postimg.cc/Z02fJZL0
 const klub02 = { naziv: "BH fanaticos", logo: "https://i.postimg.cc/jDQ3Mv4C/Zastavica-BHF2.png", sastav: { clan1: "Omerbavarac", clan2: "harry_90", clan3: "Centre forward" } };
 const klub03 = { naziv: "Blue Train", logo: "https://i.postimg.cc/njVQFFPy/Zastavica-Blue-Train-FC-2020.png", sastav: { clan1: "anonimni", clan2: "Suki46", clan3: "Trebinjac94" } };
 const klub04 = { naziv: "Crazy Legs", logo: "https://i.postimg.cc/TyhNqQWB/Zastavica-Crazy-Legs.png", sastav: { clan1: "nerkolfc", clan2: "delinjo", clan3: "soxx" } };
-const klub05 = { naziv: "Čekićari", logo: "https://i.postimg.cc/m1CwM2Tm/Zastavica-eki-ari-2020.png", sastav: { clan1: "Mont0", clan2: "BaDa12", clan3: "alex1991" } };
+const klub05 = { naziv: "Čekićari", logo: "https://i.postimg.cc/m1CwM2Tm/Zastavica-eki-ari-2020.png", sastav: { clan1: "Mont0", clan2: "BaDa12", clan3: "Zoran28" } };
 
 const klub06 = { naziv: "FC Grizzlies", logo: "https://i.postimg.cc/FfqGcVLV/Zastavica-grizzlies.png", sastav: { clan1: "Justin", clan2: "harden", clan3: "BoixosNois1899" } };
 const klub07 = { naziv: "FC Hollywood", logo: "https://i.postimg.cc/FkNYDVBm/Zastavice-Hollywood.png", sastav: { clan1: "S-Y-L-A-R", clan2: "dirkules", clan3: "phillies" } };
 const klub08 = { naziv: "FC Ljuta Krajina", logo: "https://i.postimg.cc/jWNngrpt/2-Zastavica-Ljuta-Krajina.png", sastav: { clan1: "Padovan", clan2: "Goalgetter", clan3: "LjumanM95" } };
 const klub09 = { naziv: "FC Premier", logo: "https://i.postimg.cc/v1TdPFvy/Zastavica-Premier.png", sastav: { clan1: "Belmin6", clan2: "defender", clan3: "Rooney88" } };
-const klub10 = { naziv: "FK Bilder", logo: "https://i.postimg.cc/30TpLJWz/Zastavica-Bilder.png", sastav: { clan1: "Sviuodbranu", clan2: "BosniaBoston", clan3: "meepo" } };
+const klub10 = { naziv: "FK Bilder", logo: "https://i.postimg.cc/30TpLJWz/Zastavica-Bilder.png", sastav: { clan1: "Sviuodbranu", clan2: "Juventinisimo", clan3: "meepo" } };
 
 const klub11 = { naziv: "FK Delfin", logo: "https://i.postimg.cc/QFr42yb1/Zastavica-Delfin.png", sastav: { clan1: "123456", clan2: "Pivopija", clan3: "Blancos10" } };
 const klub12 = { naziv: "FK Formula", logo: "https://i.postimg.cc/zLggt2RQ/Zastavica-Formula-ss.png", sastav: { clan1: "coelho41", clan2: "Varg", clan3: "FRANK RIBERY" } };
-const klub13 = { naziv: "FK Garaže", logo: "https://i.postimg.cc/Z099YMqD/Zastavica-Gara-e-2020.png", sastav: { clan1: "aldin-8", clan2: "spiska", clan3: "dinoo" } };
+const klub13 = { naziv: "FK Garaže", logo: "https://i.postimg.cc/Z099YMqD/Zastavica-Gara-e-2020.png", sastav: { clan1: "aldin-8", clan2: "FCB1986", clan3: "dinoo" } };
 const klub14 = { naziv: "FK Gromovi", logo: "https://i.postimg.cc/9DWfxDn7/Zastavica-Gromovi.png", sastav: { clan1: "JohnCleese", clan2: "Pitagora", clan3: "1921boy" } };
 const klub15 = { naziv: "FK Kockari", logo: "https://i.postimg.cc/CRKgQzyZ/Zastavica-Kockari.png", sastav: { clan1: "Maestro^^", clan2: "Viper", clan3: "huthut" } };
 
-const klub16 = { naziv: "FK Pijetlovi", logo: "https://i.postimg.cc/TpnWRq0W/Zastavica-Pjetlovi.png", sastav: { clan1: "reds", clan2: "OTNYS_YNWA", clan3: "GracanicaAA" } };
+const klub16 = { naziv: "FK Pijetlovi", logo: "https://i.postimg.cc/TpnWRq0W/Zastavica-Pjetlovi.png", sastav: { clan1: "reds", clan2: "killafrommanilla", clan3: "GracanicaAA" } };
 const klub17 = { naziv: "FK Potkovice", logo: "https://i.postimg.cc/RFDd7dCS/potkovice.png", sastav: { clan1: "Edin TM87", clan2: "SaltCityAttack", clan3: "Mig_Mig" } };
 const klub18 = { naziv: "FK Primitivci", logo: "https://i.postimg.cc/0MnbpfGL/Zastavica-Primitivci.png", sastav: { clan1: "StevieG8", clan2: "bavariapivo", clan3: "Otelo" } };
 const klub19 = { naziv: "FK Topnici", logo: "https://i.postimg.cc/nsqRwNM9/Zastavica-Topnici.png", sastav: { clan1: "arelinho", clan2: "Admir_Sa", clan3: "amertiger" } };
@@ -33,7 +33,7 @@ const klub20 = { naziv: "Gongashi Powerhouse", logo: "https://i.postimg.cc/jWDwr
 
 const klub21 = { naziv: "Green Dragons", logo: "https://i.postimg.cc/BXcNnjKD/Zastavica-Green-Dragons-triple.png", sastav: { clan1: "legenda reala", clan2: "Cartman", clan3: "Aerials" } };
 const klub22 = { naziv: "Jedinstvo Manchester", logo: "https://i.postimg.cc/QH7qst29/Zastavica-Manchester.png", sastav: { clan1: "forza", clan2: "Patrice_Evra_3", clan3: "Slatinash_7" } };
-const klub23 = { naziv: "Joint_fc", logo: "https://i.postimg.cc/34H40pG5/Zastavica-Joint-FC2.png", sastav: { clan1: "KonjicBOY", clan2: "CarlitoBrigante", clan3: "fudbalfudbal" } };
+const klub23 = { naziv: "Joint_fc", logo: "https://i.postimg.cc/34H40pG5/Zastavica-Joint-FC2.png", sastav: { clan1: "KonjicBOY", clan2: "feniksptica", clan3: "fudbalfudbal" } };
 const klub24 = { naziv: "Mislish United", logo: "https://i.postimg.cc/hQTd3sqG/Zastavica-Mislish-United2.png", sastav: { clan1: "__Liedson__", clan2: "tevezito", clan3: "OldFashioned" } };
 const klub25 = { naziv: "Pivopije", logo: "https://i.postimg.cc/5HR1CTgK/Zastavica-Pivopije.png", sastav: { clan1: "scudetto89", clan2: "maldini3", clan3: "Pantelija" } };
 
