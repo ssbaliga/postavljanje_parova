@@ -1,0 +1,71 @@
+﻿body {
+  background-color: #faf5ed;
+  width: 100%;
+  margin: 30px auto;
+}
+
+td {
+  margin: 10px;
+  width: 50%;
+  padding: 10px;
+}
+
+.parovi td {
+  vertical-align: baseline;
+}
+
+.wrap {
+  background-color: #fff;
+  border-color: #e6e9ed;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  margin: auto;
+  padding: 10px;
+}
+
+.timovi,
+.parovi,
+.termin,
+.naslov {
+  background-color: #e0e3e6;
+  padding: 5px 10px;
+  margin-bottom: 10px;
+  border-radius: 7px;
+  width: 100%;
+}
+
+.naslov {
+  background-color: #3e617e;
+}
+
+#termin {
+  font-size: 14px;
+  width: 300px;
+}
+
+#ligaLink {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  padding: 4px;
+  font-size: 28px;
+  font-weight: bold;
+  width: 100%;
+  display: block;
+}
+
+a:hover {
+  color: #0d6efd;
+}
+
+#contact {
+  text-align: right;
+}
+
+select {
+  width: 250px;
+}
+
+textarea {
+  resize: none;
+}
